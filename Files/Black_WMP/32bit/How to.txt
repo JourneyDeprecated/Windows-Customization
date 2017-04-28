@@ -1,0 +1,6 @@
+Go to:
+
+C:\Windows\SysWOW64\wmploc.DLL
+
+Take Ownership, and rename to wmploc.DLL.BAK, and replace with included wmploc.dll
+If you have a 64bit system this go inside SysWOW64 folder.
