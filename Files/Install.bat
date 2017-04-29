@@ -863,10 +863,11 @@ if %version%==10.0.14393 (
 
 if %allow%==0 echo Sorry, this Operating System is not compatible with your selection.
 pause
-if %allow%==1 goto :RS1StartNow
+if %allow%==1 goto :RS2StartNow
 
 
 goto :MainMenu
+:RS2StartNow
 copy UxThemeSignatureBypass\UxthemeSignatureBypass64.dll %SYSTEMROOT%\System32\
 copy UxThemeSignatureBypass\UxthemeSignatureBypass32.dll %SYSTEMROOT%\System32\
 Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows" /v "AppInit_DLLs" /t REG_SZ /d "C:\Windows\System32\UxThemeSignatureBypass64.dll" /f
