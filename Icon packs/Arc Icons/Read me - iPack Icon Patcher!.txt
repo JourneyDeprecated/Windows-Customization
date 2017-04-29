@@ -1,0 +1,9 @@
+Due to deviantART's restriction on executable files, you're going to have to slip a lower-case 'x' between the two 'e's that are to the right of the dot, at the end of the file-name. Adding that little 'x' will change it back to an executable-file, or 'exe' file....
+
+After you've re-named the .ee extentions to .exe, double-click it to begin installation of the icon-pack.!
+
+To un-install any iPack, run the setup file a 2nd time. The installer will then be in Uninstall-mode and give you the choice to restore the backups iPack made of your
+system-files prior to install and also the choice of doing an 'sfc/ scannow' Windows check/restoration of your system-files should you need that option.    
+
+neiio
+Jamie Green

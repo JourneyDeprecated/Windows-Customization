@@ -1,0 +1,5 @@
+Due to deviantART's policy concerning executable files, I've had to give the installers the temporary ".ee" file extension. You'll need to change that extension for the files to an ".exe"
+
+Cheers,
+Jamie Green
+neiio
