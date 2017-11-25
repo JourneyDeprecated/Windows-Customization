@@ -1,9 +1,0 @@
-This is to get the Blank Caption font.  
-First install the blank font.
-Then click on the Blank.reg file.
-You must log off then back on to see the changes.
-To revert the changes click on the Default.reg file and
-log off and back on.
-
-Jamie
-aka neiio

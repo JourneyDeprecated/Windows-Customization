@@ -1,5 +1,0 @@
-Go to:
-
-C:\Windows\System32\wmploc.DLL
-
-Take Ownership, and rename to wmploc.DLL.BAK, and replace with included wmploc.dll
